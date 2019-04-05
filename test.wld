@@ -1,0 +1,45 @@
+#102
+Corredor~
+Este é um corredor que dá acesso a várias salas. No final do corredor você enxerga uma sala com a luz piscando. Você sente calor.~
+103 104 105 102 
+4
+#103
+Pronto Socorro~
+Você está agora na sala de Pronto Socorro. Você sente um cheiro ruim no ambiente.~
+0 0 0 102
+2
+#104
+UTI~
+Agora você se encontra em um ambiente escuro, quente e com a janela aberta. Existem muitas mesas e equipamentos aqui.~
+0 102 0 0 
+5
+#105
+Sala de Cirurgia~
+Esta é a sala de Cirurgia. Você sente um cheiro ruim e escuta novamente algumas vozes.~
+102 0 0 0
+8
+#106
+Corredor~
+Você se depara com outro corredor, este maior e com mais portas. Parece ser um ambiente agradável.~
+110 107 108 109 
+4
+#107
+Banco de Sangue~
+Você está agora no banco de sangue. O ambiente está muito gelado.~
+0 0 0 106
+1 3
+#108
+Restaurante~
+Você esta no restaurante, o ambiente está em em ruinas. Existe sujeira para todo lado.~
+0 0 106 0 
+9
+#109
+Area de Transplante~
+Este é um ambiente que cheira mal. Muito sangue espalhado, e muita sujeira. Você sente um cheiro ruim.~
+0 106 0 0 
+2 10
+#110
+Pronto Socorro~
+Você está agora na sala de Pronto Socorro. Você sente um cheiro ruim no ambiente.~
+0 0 0 102
+2

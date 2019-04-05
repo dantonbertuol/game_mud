@@ -1,0 +1,76 @@
+#101
+Recepção~
+Você está na recepção da clínica. Você sente o ar gelado do ar-condicionado e escuta algumas vozes.~
+102 0 111 108
+1
+#102
+Corredor~
+Este é um corredor que dá acesso a várias salas. No final do corredor você enxerga uma sala com a luz piscando. Você sente calor.~
+104 101 115 113 
+2
+#103
+Pronto Socorro~
+Você está agora na sala de Pronto Socorro. Você sente um cheiro ruim no ambiente.~
+0 106 0 110
+3
+#104
+UTI~
+Agora você se encontra em um ambiente escuro, quente e com a janela aberta. Existem muitas mesas e equipamentos aqui.~
+109 102 0 106 
+4
+#105
+Sala de Cirurgia~
+Esta é a sala de Cirurgia. Você sente um cheiro ruim e escuta novamente algumas vozes.~
+0 114 106 0
+5
+#106
+Corredor~
+Você se depara com outro corredor, este maior e com mais portas. Parece ser um ambiente agradável.~
+103 107 104 105 
+6
+#107
+Banco de Sangue~
+Você está agora no banco de sangue. O ambiente está muito gelado.~
+106 0 0 0
+7
+#108
+Restaurante~
+Você esta no restaurante, o ambiente está em em ruinas. Existe sujeira para todo lado.~
+0 112 101 0 
+8
+#109
+Area de Transplante~
+Este é um ambiente que cheira mal. Muito sangue espalhado, e muita sujeira. Você sente um cheiro ruim.~
+0 104 0 0 
+9
+#110
+Farmacia~
+Você está agora na Farmacia. Você vê muitos medicamentos espalhados pelo chão, um ventilador está ligado.~
+0 0 103 0
+10
+#111
+Estacionamento~
+Você está agora no Estacionamento. Você vê muitos carros abandonados sendo engolidos pela natureza, um som de alarme soa no seu ouvido.~
+0 0 0 101
+11 11
+#112
+Cozinha~
+Você está agora na cozinha do restaurante. Muitos talheres e pratos quebrados no chão, você ouve vozes.~
+108 0 0 0
+12
+#113
+Ambulatório~
+Você se encontra agora no ambulatório. Você ve muitas macas e tubos de oxigenio.Está frio.~
+0 0 102 0
+13
+#114
+Necrotério~
+Você está agora no Necrotério. Você vê muitos corpos degenerados, o cheiro de formol é muito forte.~
+105 0 0 0
+14
+#115
+Quarto~
+Você está agora em um quarto. Você vê um cadáver na cama, um ventilador está ligado.~
+0 0 0 102
+15
+$
